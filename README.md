@@ -2,7 +2,6 @@ Electricity Demand Forecasting: Data Processing & Regression Modeling
 📌 Project Overview
 This project focuses on loading, cleaning, analyzing, and modeling electricity demand data. The dataset includes electricity consumption and weather data in various formats (CSV, JSON, etc.). The primary goal is to build a regression model that predicts electricity demand based on historical trends and external factors.
 
-📂 Directory Structure
 ```
 
 🛠️ Step 1: Data Loading & Integration
